@@ -1,0 +1,9 @@
+{
+  "name": "sessions",
+  "description": "Start, close and resume Claude Code sessions without losing context: handoffs, durable knowledge, and a ranked list of what to pick up next.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Antoine Olivier"
+  },
+  "license": "MIT"
+}

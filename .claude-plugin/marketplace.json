@@ -1,0 +1,15 @@
+{
+  "name": "session-skills",
+  "description": "Start, close and resume Claude Code sessions without losing context: handoffs, durable knowledge, and a ranked list of what to pick up next.",
+  "owner": {
+    "name": "Antoine Olivier",
+    "url": "https://github.com/antoine-olivier"
+  },
+  "plugins": [
+    {
+      "name": "sessions",
+      "source": "./plugins/sessions",
+      "description": "Start, close and resume Claude Code sessions without losing context: handoffs, durable knowledge, and a ranked list of what to pick up next."
+    }
+  ]
+}
